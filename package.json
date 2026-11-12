@@ -1,0 +1,14 @@
+{
+  "name": "fpt-loop",
+  "version": "1.0.0",
+  "description": "FPT LOOP - cho mua ban, trao doi do cu danh cho sinh vien",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}
